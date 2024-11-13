@@ -1,2 +1,3 @@
 # amit-
-responsive landing page
+Responsive landing page
+Author = Amit Sharma
